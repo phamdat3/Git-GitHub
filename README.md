@@ -6,14 +6,14 @@
 
 ## Mục lục 
 
-<a href="#1.Git">Gi</a>
+<a href="#Git">1.Gi</a>
   <ul>
-    <li><a href="#1.1Nội dung1">Nội dung</a></li>
-    <li><a href="#1.2Công dụng1">Công dụng</a></li>
+    <li><a href="#Nội dung1">1.1Nội dung</a></li>
+    <li><a href="#Công dụng1">1.2Công dụng</a></li>
   </ul>
-<a href="#2.Cài đặt">Cài đặt git trên máy tính</a>  
-<a href="#3.Cách sử dụng">Cách sử dụng git trên cmd</a>   
-<a href="#4.commit&push">Sử dụng git để commit/ push file README.md lên github</a>
+<a href="#Cài đặt">2.Cài đặt git trên máy tính</a>  
+<a href="#Cách sử dụng">3.Cách sử dụng git trên cmd</a>   
+<a href="#commit&push">4.Sử dụng git để commit/ push file README.md lên github</a>
 
 ## Nội dung.
 
@@ -60,9 +60,9 @@ Git là một hệ thống dùng để quản lý và kiểm tra các phiên b�
 <img src="http://prntscr.com/e6fr43">
 
 `
-$ git config --global user.name "Tên đăng nhập của bạn"
+ $ git config --global user.name "Tên đăng nhập của bạn"
 
-$ git config --global user.email "Email của bạn"
+ $ git config --global user.email "Email của bạn"
 `
 <id="Cách sử dụng">
 ###III. Cách sử dụng Git trên cmd.
