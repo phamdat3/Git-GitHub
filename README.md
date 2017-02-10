@@ -11,16 +11,14 @@
     <li><a href="#Nội dung1">Nội dung</a></li>
     <li><a href="#Công dụng1">Công dụng</a></li>
   </ul>
-<a href="#Cài đặt">Cài đặt git trên máy tính</a>
-<a href="#Cách sử dụng">Cách sử dụng git trên cmd</a> 
+<a href="#Cài đặt">Cài đặt git trên máy tính</a>  
+<a href="#Cách sử dụng">Cách sử dụng git trên cmd</a>   
 <a href="#commit&push">Sử dụng git để commit/ push file README.md lên github</a>
 
 ## Nội dung.
 
-<id ="Gi">
-###I. Gi. 
-
- <img src ="">
+<id ="Git">
+###I. Git. 
 
 <id ="Nội dung1">
 ####1. Nội dung.
@@ -39,15 +37,15 @@ Git là một hệ thống dùng để quản lý và kiểm tra các phiên b�
 
 - Đầu tiên bạn truy cập vào [Git](https://git-scm.com/) để tải phần mềm **Git** về để cài đặt.
 
-<img src="">
+<img src="http://prntscr.com/e6fqwr">
 
 - Sau đó bạn nhấp vào **Download**
 
-<img src="">
+<img src="http://prntscr.com/e6fqzl">
 
 - Chọn hệ điều hành tương ứng để tải về.
 
-<img src="">
+<img src="http://prntscr.com/e6fr1y">
 
 - Như vậy là **Git** đã được tải về
 
@@ -59,13 +57,13 @@ Git là một hệ thống dùng để quản lý và kiểm tra các phiên b�
 
 - Bạn bật `Git` lên và gõ lệnh
 
-<img src="">
+<img src="http://prntscr.com/e6fr43">
 
 `
-$ git config --global user.name "Tên đăng nhập của bạn"
+$ git config --global user.name "Tên đăng nhập của bạn"   
 $ git config --global user.email "Email của bạn"
 `
-
+<id="Cách sử dụng">
 ###III. Cách sử dụng Git trên cmd.
 
 - Tạo ra một bản sao làm việc của một kho lưu trữ địa phương bằng cách chạy lệnh:
@@ -77,16 +75,17 @@ $ git config --global user.email "Email của bạn"
 - Để gửi những thay đổi đó đến kho lưu trữ từ xa của bạn, thực hiện:
 `git push`
 
-###IV. Sử dụng Git để commit/ push file `**README.md**` lên github.
+<id="commit&push">
+###IV. Sử dụng Git để commit/ push file `README.md` lên github.
 
 - Trước hết ta phải tạo 1 file README.md trên `Github`. Và copy link của file đó, trên `Github` ta nhấp vào **Clone or download** và chọn **Use SSh**, song ta copy link đó.
 
-<img src="">
+<img src="http://prntscr.com/e6fqh3">
 
 - Ta tạo 1 thu mục ở dưới máy và nhấp vào file đó để chạy **Git**.
 - Vào được **Git** ta gõ lệnh:
 
-<img src="">
+<img src="http://prntscr.com/e6fqhf">
 
 `git clone <địa chỉ lúc nãy copy trên github>`
   để tạo ra một bản sao làm việc của một kho lưu trữ dưới máy.
