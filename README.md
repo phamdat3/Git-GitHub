@@ -59,11 +59,11 @@ Git là một hệ thống dùng để quản lý và kiểm tra các phiên b�
 
 <img src="http://prntscr.com/e6fr43">
 
-`
+```
  $ git config --global user.name "Tên đăng nhập của bạn"
 
  $ git config --global user.email "Email của bạn"
-`
+```
 <id="Cách sử dụng">
 ###III. Cách sử dụng Git trên cmd.
 
