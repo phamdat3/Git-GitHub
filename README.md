@@ -37,16 +37,9 @@ Git là một hệ thống dùng để quản lý và kiểm tra các phiên b�
 
 - Đầu tiên bạn truy cập vào [Git](https://git-scm.com/) để tải phần mềm **Git** về để cài đặt.
 
-<img src="http://prntscr.com/e6fqwr">
+<img src="https://viblo.asia/uploads/f4bff516-3b2f-499c-83e7-35b42d6d9179.jpeg">
 
-- Sau đó bạn nhấp vào **Download**
-
-<img src="http://prntscr.com/e6fqzl">
-
-- Chọn hệ điều hành tương ứng để tải về.
-
-<img src="http://prntscr.com/e6fr1y">
-
+- Sau đó bạn nhấp vào **Download** 
 - Như vậy là **Git** đã được tải về
 
 ####2. Tiến hành cài đặt.
@@ -56,9 +49,6 @@ Git là một hệ thống dùng để quản lý và kiểm tra các phiên b�
 ####3. Cập nhập thông tin cá nhân.
 
 - Bạn bật `Git` lên và gõ lệnh
-
-<img src="http://prntscr.com/e6fr43">
-
 ```
  $ git config --global user.name "Tên đăng nhập của bạn"
 
@@ -79,16 +69,10 @@ Git là một hệ thống dùng để quản lý và kiểm tra các phiên b�
 <id="commit&push">
 ###IV. Sử dụng Git để commit/ push file `README.md` lên github.
 
-- Trước hết ta phải tạo 1 file README.md trên `Github`. Và copy link của file đó, trên `Github` ta nhấp vào **Clone or download** và chọn **Use SSh**, song ta copy link đó.
-
-<img src="http://prntscr.com/e6fqh3">
-
+- Trước hết ta phải tạo 1 file README.md trên `Github`. Và copy link của file đó, trên `Github` ta nhấp vào **Clone or download** và chọn **Use SSh**, song ta copy link đó. 
 - Ta tạo 1 thu mục ở dưới máy và nhấp vào file đó để chạy **Git**.
 - Vào được **Git** ta gõ lệnh:
-
-<img src="http://prntscr.com/e6fqhf">
-
-`git clone <địa chỉ lúc nãy copy trên github>`
+`git clone <địa chỉ lúc nãy copy trên github>` 
   để tạo ra một bản sao làm việc của một kho lưu trữ dưới máy.
 - Gõ tiếp lệnh:
 `git status` 
