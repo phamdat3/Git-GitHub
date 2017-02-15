@@ -37,12 +37,13 @@ Git là một hệ thống dùng để quản lý và kiểm tra các phiên b�
 
 - Đầu tiên bạn truy cập vào [Git](https://git-scm.com/) để tải phần mềm **Git** về để cài đặt.
 
-<img="http://imageshack.com/a/img922/9312/qX8zjd.png">
+<img src="http://imageshack.com/a/img922/9312/qX8zjd.png">
 
 - Sau đó bạn nhấp vào **Download**  
 
-<img src="http://imageshack.com/a/img924/1405/CvzMCk.png">
-<img src="http://imageshack.com/a/img923/9486/hesLZo.png">
+<img src="http://imageshack.com/a/img924/1405/CvzMCk.png">  
+- Chọn hệ điều hành tương ứng, sau đó nhấp vào là được.  
+<img src="http://imageshack.com/a/img923/9486/hesLZo.png">  
 - Như vậy là **Git** đã được tải về
 
 ####2. Tiến hành cài đặt.
@@ -58,7 +59,8 @@ Git là một hệ thống dùng để quản lý và kiểm tra các phiên b�
  $ git config --global user.email "Email của bạn"
 ```
 
-<img src="http://imageshack.com/a/img923/4314/wGAsqm.png"> 
+<img src="http://imageshack.com/a/img923/4314/wGAsqm.png">   
+- Vậy là đã hoàn thành.
 
 <a name="3"></a>
 ###III. Cách sử dụng Git trên cmd.
