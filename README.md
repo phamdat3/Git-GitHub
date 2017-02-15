@@ -41,8 +41,8 @@ Git là một hệ thống dùng để quản lý và kiểm tra các phiên b�
 
 - Sau đó bạn nhấp vào **Download**  
 
-<img="http://imageshack.com/a/img924/1405/CvzMCk.png">
-<img="http://imageshack.com/a/img923/9486/hesLZo.png">
+<img src="http://imageshack.com/a/img924/1405/CvzMCk.png">
+<img src="http://imageshack.com/a/img923/9486/hesLZo.png">
 - Như vậy là **Git** đã được tải về
 
 ####2. Tiến hành cài đặt.
@@ -58,7 +58,7 @@ Git là một hệ thống dùng để quản lý và kiểm tra các phiên b�
  $ git config --global user.email "Email của bạn"
 ```
 
-<img="http://imageshack.com/a/img923/4314/wGAsqm.png"> 
+<img src="http://imageshack.com/a/img923/4314/wGAsqm.png"> 
 
 <a name="3"></a>
 ###III. Cách sử dụng Git trên cmd.
@@ -77,7 +77,7 @@ Git là một hệ thống dùng để quản lý và kiểm tra các phiên b�
 
 - Trước hết ta phải tạo 1 file README.md trên `Github`. Và copy link của file đó, trên `Github` ta nhấp vào **Clone or download** và chọn **Use SSh**, song ta copy link đó.
 
-<img="http://imageshack.com/a/img922/4171/lyqweW.png">
+<img src="http://imageshack.com/a/img922/4171/lyqweW.png">
 
 - Ta tạo 1 thu mục ở dưới máy và nhấp vào file đó để chạy **Git**.
 - Vào được **Git** ta gõ lệnh:
@@ -95,7 +95,7 @@ Git là một hệ thống dùng để quản lý và kiểm tra các phiên b�
 `git push`
  để lưu trữ và đồng bộ dữ kiệu.
 
- <img="http://imageshack.com/a/img923/6923/1W8FAc.png">
+ <img src="http://imageshack.com/a/img923/6923/1W8FAc.png">
 
 ---
 ## Hoàn thành Task 02
