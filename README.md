@@ -6,40 +6,43 @@
 
 ## Mục lục 
 
-<a href="#Git">1.Gi</a>
+[Git](#1)
   <ul>
-    <li><a href="#Nội dung1">1.1Nội dung</a></li>
-    <li><a href="#Công dụng1">1.2Công dụng</a></li>
+    <li>[1.1Nội dung](#1.1)</li>
+    <li>[1.2Công dụng](#1.2)</a></li>
   </ul>
-<a href="#Cài đặt">2.Cài đặt git trên máy tính</a>  
-<a href="#Cách sử dụng">3.Cách sử dụng git trên cmd</a>   
-<a href="#commit&push">4.Sử dụng git để commit/ push file README.md lên github</a>
+[2.Cài đặt git trên máy tính](#2)    
+[3.Cách sử dụng git trên cmd](#3)  
+[4.Sử dụng git để commit/ push file README.md lên github](#4)  
 
 ## Nội dung.
 
-<id ="Git">
+<a name="1"></a>
 ###I. Git. 
 
-<id ="Nội dung1">
+<a name="1.1"></a>
 ####1. Nội dung.
 
 Git là tên gọi của một Hệ thống quản lý phiên bản phân tán (Distributed Version Control System – DVCS) là mộttrong những hệ thống quản lý phiên bản phân tán phổ biến nhất hiện nay. DVCS nghĩa là hệ thống giúp mỗi máy tính có thể lưu trữ nhiều phiên bản khác nhau của một mã nguồn được nhân bản (clone) từ một kho chứa mã nguồn (repository), mỗi thay đổi vào mã nguồn trên máy tính sẽ có thể ủy thác (commit) rồi đưa lên máy chủ nơi đặt kho chứa chính. Và một máy tính khác (nếu họ có quyền truy cập) ũng có thể clone lại mã nguồn từ kho chứa hoặc clone lại một tập hợp các thay đổi mới nhất trên máy tính kia. 
 
-<id ="Công dụng1">
+<a name="1.2"></a>
 ####2. Công dụng.
 
 Git là một hệ thống dùng để quản lý và kiểm tra các phiên bản mã nguồn khác nhau trong quá trình phát triển mã nguồn
 
-<id ="Cài đặt">
+<a name="2"></a>
 ###II. Cài đặt git trên máy tính
 
 ####1. Tải **file Git** về để cài đặt.
 
 - Đầu tiên bạn truy cập vào [Git](https://git-scm.com/) để tải phần mềm **Git** về để cài đặt.
 
-<img src="https://viblo.asia/uploads/f4bff516-3b2f-499c-83e7-35b42d6d9179.jpeg">
+<img="http://imageshack.com/a/img922/9312/qX8zjd.png">
 
-- Sau đó bạn nhấp vào **Download** 
+- Sau đó bạn nhấp vào **Download**  
+
+<img="http://imageshack.com/a/img924/1405/CvzMCk.png">
+<img="http://imageshack.com/a/img923/9486/hesLZo.png">
 - Như vậy là **Git** đã được tải về
 
 ####2. Tiến hành cài đặt.
@@ -54,7 +57,9 @@ Git là một hệ thống dùng để quản lý và kiểm tra các phiên b�
 
  $ git config --global user.email "Email của bạn"
 ```
-<id="Cách sử dụng">
+
+<img="http://imageshack.com/a/img923/4314/wGAsqm.png">
+<a name="3"></a>
 ###III. Cách sử dụng Git trên cmd.
 
 - Tạo ra một bản sao làm việc của một kho lưu trữ địa phương bằng cách chạy lệnh:
@@ -66,7 +71,7 @@ Git là một hệ thống dùng để quản lý và kiểm tra các phiên b�
 - Để gửi những thay đổi đó đến kho lưu trữ từ xa của bạn, thực hiện:
 `git push`
 
-<id="commit&push">
+<a name="4"></a>
 ###IV. Sử dụng Git để commit/ push file `README.md` lên github.
 
 - Trước hết ta phải tạo 1 file README.md trên `Github`. Và copy link của file đó, trên `Github` ta nhấp vào **Clone or download** và chọn **Use SSh**, song ta copy link đó.
