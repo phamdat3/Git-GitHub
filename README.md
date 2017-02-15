@@ -58,7 +58,8 @@ Git là một hệ thống dùng để quản lý và kiểm tra các phiên b�
  $ git config --global user.email "Email của bạn"
 ```
 
-<img="http://imageshack.com/a/img923/4314/wGAsqm.png">
+<img="http://imageshack.com/a/img923/4314/wGAsqm.png"> 
+
 <a name="3"></a>
 ###III. Cách sử dụng Git trên cmd.
 
@@ -76,7 +77,7 @@ Git là một hệ thống dùng để quản lý và kiểm tra các phiên b�
 
 - Trước hết ta phải tạo 1 file README.md trên `Github`. Và copy link của file đó, trên `Github` ta nhấp vào **Clone or download** và chọn **Use SSh**, song ta copy link đó.
 
-<img src="https://2636e56f-a-62cb3a1a-s-sites.googlegroups.com/site/manleviet/bai-viet/github/Screen%20Shot%202016-09-14%20at%2014.28.38.png?attachauth=ANoY7cq6YPrWnj9n-46YEhqDo4VGlMkWZ1gNL4342UU7QzlnMXP5WVYKk_DTUYhtDU4anu_KAEZFOa8LCAaHDMXqE1bV3-syKaRVhxs9sGSxTilNfyR6IIeJxwC_RlpgEicvaHI7iQPTDmxeS5abVm4ZA5rz1lb2GYGCW0Fv5xCABrAH-YXGSuEmqNqa4mc7sysz37TVTqR8DKDJwaipFRI6GxV5spg4I4NBFW9PnyqkLtzmzfN2eCiGijf7uwAypwx-2lhzTLweQaZ599k_XYkSeQZX1u24ng%3D%3D&attredirects=0">
+<img="http://imageshack.com/a/img922/4171/lyqweW.png">
 
 - Ta tạo 1 thu mục ở dưới máy và nhấp vào file đó để chạy **Git**.
 - Vào được **Git** ta gõ lệnh:
@@ -93,6 +94,8 @@ Git là một hệ thống dùng để quản lý và kiểm tra các phiên b�
 -Gõ tiếp lệnh:
 `git push`
  để lưu trữ và đồng bộ dữ kiệu.
+
+ <img="http://imageshack.com/a/img923/6923/1W8FAc.png">
 
 ---
 ## Hoàn thành Task 02
